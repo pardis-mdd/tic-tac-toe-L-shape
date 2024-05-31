@@ -5,7 +5,7 @@ Welcome to the Tic Tac Toe game! The objective remains the same: to form an "L" 
 ### How to Watch:
 1. **Accessing the Game:**
     - Open the `index.html` file in your preferred web browser to start the game.
-    - <img src="output.gif" alt="Tic Tac Toe Gameplay" width="400">
+    - <img src="tic.gif" alt="Tic Tac Toe Gameplay" width="400">
 
 2. **Game Observing:**
     - The computer players will take turns marking cells with their respective symbols (❌ or ⭕) as they attempt to outsmart each other.
